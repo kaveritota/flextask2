@@ -1,0 +1,25 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: beige;
+    margin:20px;
+    padding:20px;
+    box-shadow: 10px 10px 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+a{
+    text-align: center;
+    font-size:1.5rem ;
+    text-decoration: none;
+
+    
+}
+div{
+    display:flex;
+gap:50px;
+}
